@@ -1,0 +1,6 @@
+{
+  "name": "Karakoram HomeCare - GB Home Services",
+  "description": "On-demand verified skilled home services platform across Gilgit-Baltistan, connecting homeowners in Gilgit, Skardu, Hunza, Ghizer, Nagar, Kharmang, and Gupis with certified skilled labor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
